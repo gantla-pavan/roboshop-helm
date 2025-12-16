@@ -1,5 +1,5 @@
-deployment:
-  imageversion: v1
-  imageRepo: gantlapavan/mongodb
-service:
-  type: clusterIP
+apiVersion: v2
+name: mongodb # chart name
+version:  1.0.0 # chart version
+description: mongodb installation
+appVersion: v1 # this is application version

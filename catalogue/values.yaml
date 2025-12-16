@@ -1,0 +1,6 @@
+deployment:
+  imageRepo: gantlapavan/catalogue
+  imageVersion: v1
+
+service:
+  serviceport: 8080

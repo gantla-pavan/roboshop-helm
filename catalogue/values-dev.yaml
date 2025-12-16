@@ -1,2 +1,6 @@
 configmap: 
   mongoURL: "mongodb://mongodb:27017/catalogue"
+
+service:
+  type: ClusterIP
+  port: 8080  

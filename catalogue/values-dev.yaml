@@ -3,5 +3,4 @@ configmap:
 
 service:
   type: ClusterIP
-  port: 8080  
-  
+  servicePort: 8080  

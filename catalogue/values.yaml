@@ -4,3 +4,4 @@ deployment:
 
 service:
   serviceport: 8080
+  

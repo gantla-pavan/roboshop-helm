@@ -2,4 +2,4 @@ deployment:
   imageversion: v1
   imageRepo: gantlapavan/mongodb
 service:
-  type: clusterIP
+  type: ClusterIP
